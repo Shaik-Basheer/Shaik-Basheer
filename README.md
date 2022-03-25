@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+am+Web+Developer.;FULLSTACK+AND+BLOCKCHAIN+DEVELOPMENT+IS+MY+LIFE.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
     
-    <br>
 <h1 align="center">Hi 👋, I'm SHAIK BASHEER MOHAMMAD</h1>
 <h3 align="center">Web Developer</h3>
 
