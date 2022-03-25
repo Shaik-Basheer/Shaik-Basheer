@@ -63,7 +63,7 @@ Alone we can do so little; together we can do so much.
 <p>
 
 <br>
-<h4 align="center">🔥 Stats 🔥</h4>
+<h4 align="center">Stats</h4>
 <hr>
 <br>
 <p align=center>
