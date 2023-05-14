@@ -48,7 +48,7 @@ Alone we can do so little; together we can do so much.
 
 <hr/>
 <p align="left">
-<a href="https://www.linkedin.com/in/shaik-basheer-7bb4001b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yamanuri-prasanth-27b9bb1b9" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shaik-basheer-mohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaik-basheer-mohammad" height="30" width="40" /></a>
 </p>
 
 <p>
